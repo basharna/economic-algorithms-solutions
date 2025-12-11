@@ -50,6 +50,7 @@ coverage.xml
 .hypothesis/
 .pytest_cache/
 cover/
+*/src/
 
 # Translations
 *.mo
@@ -231,3 +232,4 @@ __marimo__/
 *.vsix
 
 .DS_Store
+
